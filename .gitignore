@@ -1,6 +1,6 @@
 *.zip
 *.html
-*.fastq.gz
+#*.fastq.gz
 *multiqc_data*
 *.fq.gz
 *.swp
